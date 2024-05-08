@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>💼 Open To Job Opportunities<br>🌎 shuklahim.netlify.com <br>
+👨‍💻 Frontend Web Developer<br>💼 Open To Job Opportunities<br>🌎 shuklahim.netlify.app <br>
 
 
 ## 🌐 Socials:
